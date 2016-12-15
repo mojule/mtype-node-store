@@ -1,0 +1,35 @@
+{
+  "name": "mtype-node-store",
+  "version": "0.1.0",
+  "description": "Storage mechanism for mojule nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "store",
+    "persistence",
+    "mojule"
+  ],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojule/mtype-node-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojule/mtype-node-store/issues"
+  },
+  "homepage": "https://github.com/mojule/mtype-node-store#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "mevents": "^0.1.0",
+    "mojule-utils": "^0.1.1",
+    "mtype-node": "^0.1.3"
+  }
+}

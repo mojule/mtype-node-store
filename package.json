@@ -1,6 +1,6 @@
 {
   "name": "mtype-node-store",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Storage mechanism for mojule nodes",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "mevents": "^0.1.0",
-    "mojule-utils": "^0.1.1",
-    "mtype-node": "^0.1.3"
+    "mojule-utils": "^0.1.8",
+    "mtype-node": "^0.1.8"
   }
 }
